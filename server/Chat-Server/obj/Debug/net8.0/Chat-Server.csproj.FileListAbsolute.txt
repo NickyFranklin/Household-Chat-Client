@@ -1,0 +1,15 @@
+/home/nicky/Documents/GitHub/Household-Chat-Client/server/Chat-Server/bin/Debug/net8.0/Chat-Server
+/home/nicky/Documents/GitHub/Household-Chat-Client/server/Chat-Server/bin/Debug/net8.0/Chat-Server.deps.json
+/home/nicky/Documents/GitHub/Household-Chat-Client/server/Chat-Server/bin/Debug/net8.0/Chat-Server.runtimeconfig.json
+/home/nicky/Documents/GitHub/Household-Chat-Client/server/Chat-Server/bin/Debug/net8.0/Chat-Server.dll
+/home/nicky/Documents/GitHub/Household-Chat-Client/server/Chat-Server/bin/Debug/net8.0/Chat-Server.pdb
+/home/nicky/Documents/GitHub/Household-Chat-Client/server/Chat-Server/obj/Debug/net8.0/Chat-Server.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicky/Documents/GitHub/Household-Chat-Client/server/Chat-Server/obj/Debug/net8.0/Chat-Server.AssemblyInfoInputs.cache
+/home/nicky/Documents/GitHub/Household-Chat-Client/server/Chat-Server/obj/Debug/net8.0/Chat-Server.AssemblyInfo.cs
+/home/nicky/Documents/GitHub/Household-Chat-Client/server/Chat-Server/obj/Debug/net8.0/Chat-Server.csproj.CoreCompileInputs.cache
+/home/nicky/Documents/GitHub/Household-Chat-Client/server/Chat-Server/obj/Debug/net8.0/Chat-Server.sourcelink.json
+/home/nicky/Documents/GitHub/Household-Chat-Client/server/Chat-Server/obj/Debug/net8.0/Chat-Server.dll
+/home/nicky/Documents/GitHub/Household-Chat-Client/server/Chat-Server/obj/Debug/net8.0/refint/Chat-Server.dll
+/home/nicky/Documents/GitHub/Household-Chat-Client/server/Chat-Server/obj/Debug/net8.0/Chat-Server.pdb
+/home/nicky/Documents/GitHub/Household-Chat-Client/server/Chat-Server/obj/Debug/net8.0/Chat-Server.genruntimeconfig.cache
+/home/nicky/Documents/GitHub/Household-Chat-Client/server/Chat-Server/obj/Debug/net8.0/ref/Chat-Server.dll

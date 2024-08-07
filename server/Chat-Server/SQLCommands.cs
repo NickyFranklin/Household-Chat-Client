@@ -41,6 +41,7 @@ public static class SQLCommands {
     }
 
     public static bool LogIn(SqliteConnection connection, string username, string password) {
+        //Check if password and username are correct, if not, tell the server
         var command = connection.CreateCommand();
         command.CommandText =
         $"SELECT * FROM User where (\"username\", \"password\") = (\"{username}\" ,\"{password}\");";
@@ -51,4 +52,7 @@ public static class SQLCommands {
 
         return false;
     }
+
+    public static 
+
 }
